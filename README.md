@@ -1,6 +1,19 @@
 # SW-University-Generative-AI-Experience-Contest
 SW-Centered University Generative AI Experience Contest
 
+--------
+## 문제점
+
+### 
+
+
+
+-----
+
+## 생성형 AI를 이용한 해결방안
+
+
+###
 
 
 
