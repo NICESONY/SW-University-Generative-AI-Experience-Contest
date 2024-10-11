@@ -2,7 +2,7 @@
 SW-Centered University Generative AI Experience Contest
 
 --------
-## 문제점
+## 문제점 제시
 
 ### 
 
