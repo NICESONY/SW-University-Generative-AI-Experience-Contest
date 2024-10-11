@@ -162,3 +162,16 @@ cython_debug/
 #.idea/
 
 */생성형_AI_대회_관련/code/ML/stable-video-diffusion-img2vid-xt/svd_xt.safetensors
+Code/code/ML/soo_samson/clova2.py
+Code/code/ML/main.py
+Code/code/ML/SON/pipeline/clova_ocr.py
+Code/code/ML/SON/pipeline/main4.py
+Code/code/ML/SON/pipeline/ocr/recog.py
+Code/code/ML/SON/pipeline/pipe.py
+Code/code/ML/soo_samson/clova.py
+Code/code/ML/soo_samson/pipeline/ocr/recog.py
+Code/code/ML/soo_samson/pipeline/pipe.py
+Code/code/ML/soo_samson/pipeline/user_input/gradio_input2.png
+Code/code/ML/soo_samson/pipeline2/ocr/recog.py
+Code/code/ML/soo_samson/pipeline2/pipe.py
+Code/code/ML/stable-video-diffusion-img2vid-xt/svd_xt.safetensors
