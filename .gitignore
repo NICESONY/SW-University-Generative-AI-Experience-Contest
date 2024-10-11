@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 */생성형_AI_대회_관련/code/ML/stable-video-diffusion-img2vid-xt/svd_xt.safetensors
+<<<<<<< Updated upstream
 Code/code/ML/soo_samson/clova2.py
 Code/code/ML/main.py
 Code/code/ML/SON/pipeline/clova_ocr.py
@@ -175,3 +176,562 @@ Code/code/ML/soo_samson/pipeline/user_input/gradio_input2.png
 Code/code/ML/soo_samson/pipeline2/ocr/recog.py
 Code/code/ML/soo_samson/pipeline2/pipe.py
 Code/code/ML/stable-video-diffusion-img2vid-xt/svd_xt.safetensors
+=======
+
+*/code/ML/stable-video-diffusion-img2vid-xt/svd_xt.safetensors
+
+
+*/Code\code\ML\soo_samson\pipeline\ocr
+
+*/code\ML\soo_samson\pipeline\pipe.py
+Code/code/ML/SON/pipeline/pipe.py
+Code/code/ML/SON/pipeline/clova_ocr.py
+Code/code/ML/main.py
+Code/code/ML/SON/pipeline/main4.py
+Code/code/ML/SON/pipeline/ocr/recog.py
+Code/code/ML/soo_samson/pipeline2/pipe.py
+Code/code/ML/soo_samson/pipeline2/ocr/recog.py
+Code/code/ML/soo_samson/pipeline/user_input/gradio_input2.png
+Code/code/ML/soo_samson/clova.py
+Code/code/ML/soo_samson/clova2.py
+Code/code/ML/soo_samson/pipeline/pipe.py
+Code/code/ML/soo_samson/pipeline/ocr/recog.py
+>>>>>>> Stashed changes
+Code/code/ML/soo_samson/ml/style.txt
+Code/code/ML/soo_samson/ml/There is a line of people in front of the store__naver_ex5__1.gif
+Code/code/ML/soo_samson/ml/wallpaperbetter1.gif
+Code/code/ML/soo_samson/ml/wallpaperbetter1.jpg
+Code/code/ML/soo_samson/ml/warm mood__naver_ex1.gif
+Code/code/ML/soo_samson/others2/dataset/대전 문화예술의 전당/Image_1.jpg
+Code/code/ML/soo_samson/others2/dataset/대전 엑스포 과학공원/Image_1.jpg
+Code/code/ML/soo_samson/others2/dataset/대전 오월드/Image_1.jpg
+Code/code/ML/soo_samson/others2/dataset/대전 한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/others2/dataset/대전시립미술관/Image_1.jpg
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__309.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__342.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__35.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__738.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__785.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_1__869.gif
+Code/code/ML/soo_samson/others2/gifs/moving video__Image_2__389.gif
+Code/code/ML/soo_samson/others2/gifs1/a chilly atmosphere__2__350.gif
+Code/code/ML/soo_samson/others2/gifs1/a chilly atmosphere__2__443.gif
+Code/code/ML/soo_samson/others2/gifs1/moving video__3__216.gif
+Code/code/ML/soo_samson/others2/gifs1/moving video__3__629.gif
+Code/code/ML/soo_samson/others2/gifs1/the place where people stand__1__491.gif
+Code/code/ML/soo_samson/pipeline/11/dataset/유성온천/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/11/dataset/유성온천/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/11/dataset/유성온천/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/11/dataset/유성온천/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/11/dataset/유성온천/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/11/gifs/a promotional video for tourism__유성온천__77.gif
+Code/code/ML/soo_samson/pipeline/11/log_11.txt
+Code/code/ML/soo_samson/pipeline/111/dataset/송촌동 카페/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/111/dataset/송촌동 카페/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/111/dataset/송촌동 카페/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/111/dataset/송촌동 카페/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/111/dataset/송촌동 카페/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/111/gifs/a promotional video for tourism__송촌동 카페__10.gif
+Code/code/ML/soo_samson/pipeline/111/log_111.txt
+Code/code/ML/soo_samson/pipeline/123123/dataset/타워/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/123123/dataset/타워/Image_2.jpeg
+Code/code/ML/soo_samson/pipeline/123123/dataset/타워/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/123123/dataset/타워/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/123123/dataset/타워/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/123123/gifs/apromotionalvideofortourism__taweo__84.gif
+Code/code/ML/soo_samson/pipeline/123123/log_123123.txt
+Code/code/ML/soo_samson/pipeline/13231/dataset/오월드/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/13231/dataset/오월드/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/13231/dataset/오월드/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/13231/dataset/오월드/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/13231/dataset/오월드/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/13231/gifs/apromotionalvideofortourism__oweoldeu__80.gif
+Code/code/ML/soo_samson/pipeline/13231/log_13231.txt
+Code/code/ML/soo_samson/pipeline/17조_24/dataset/한정식집/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/17조_24/dataset/한정식집/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/17조_24/dataset/한정식집/Image_3.JPG
+Code/code/ML/soo_samson/pipeline/17조_24/dataset/한정식집/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/17조_24/dataset/한정식집/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/17조_24/gifs/a promotional video for tourism__한정식집__38.gif
+Code/code/ML/soo_samson/pipeline/17조_24/log_17조_24.txt
+Code/code/ML/soo_samson/pipeline/17조화이팅/dataset/신세계백화점/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/17조화이팅/dataset/신세계백화점/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/17조화이팅/dataset/신세계백화점/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/17조화이팅/dataset/신세계백화점/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/17조화이팅/dataset/신세계백화점/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/17조화이팅/gifs/a promotional video for tourism__신세계백화점__5.gif
+Code/code/ML/soo_samson/pipeline/17조화이팅/log_17조화이팅.txt
+Code/code/ML/soo_samson/pipeline/21312/dataset/유성온천/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/21312/dataset/유성온천/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/21312/dataset/유성온천/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/21312/dataset/유성온천/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/21312/dataset/유성온천/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/21312/gifs/apromotionalvideofortourism__yuseongonceon__99.gif
+Code/code/ML/soo_samson/pipeline/21312/log_21312.txt
+Code/code/ML/soo_samson/pipeline/21323/dataset/한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/21323/dataset/한밭수목원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/21323/dataset/한밭수목원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/21323/dataset/한밭수목원/Image_4.JPG
+Code/code/ML/soo_samson/pipeline/21323/dataset/한밭수목원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/21323/gifs/a promotional video for tourism__한밭수목원__51.gif
+Code/code/ML/soo_samson/pipeline/21323/log_21323.txt
+Code/code/ML/soo_samson/pipeline/312312/dataset/유성 온천/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/312312/dataset/유성 온천/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/312312/dataset/유성 온천/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/312312/dataset/유성 온천/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/312312/dataset/유성 온천/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/312312/gifs/apromotionalvideofortourism__yuseongonceon__39.gif
+Code/code/ML/soo_samson/pipeline/312312/log_312312.txt
+Code/code/ML/soo_samson/pipeline/312312312/dataset/한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/312312312/dataset/한밭수목원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/312312312/dataset/한밭수목원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/312312312/dataset/한밭수목원/Image_4.JPG
+Code/code/ML/soo_samson/pipeline/312312312/dataset/한밭수목원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/312312312/gifs/apromotionalvideofortourism__hanbatsumogweon__49.gif
+Code/code/ML/soo_samson/pipeline/312312312/log_312312312.txt
+Code/code/ML/soo_samson/pipeline/333/dataset/보문산 자연공원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/333/dataset/보문산 자연공원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/333/dataset/보문산 자연공원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/333/dataset/보문산 자연공원/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/333/dataset/보문산 자연공원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/333/gifs/a promotional video for tourism__보문산 자연공원__62.gif
+Code/code/ML/soo_samson/pipeline/333/log_333.txt
+Code/code/ML/soo_samson/pipeline/clova_ocr.py
+Code/code/ML/soo_samson/pipeline/crawl/crawling.py
+Code/code/ML/soo_samson/pipeline/dataset/식당/Image_1.JPG
+Code/code/ML/soo_samson/pipeline/dataset/식당/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/dataset/식당/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/dataset/식당/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/dataset/식당/Image_5.JPG
+Code/code/ML/soo_samson/pipeline/dataset/신세계백화점/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/dataset/신세계백화점/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/dataset/신세계백화점/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/dataset/신세계백화점/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/dataset/신세계백화점/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/dataset/오월드/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/dataset/오월드/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/dataset/오월드/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/dataset/오월드/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/dataset/오월드/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/dataset/유성온천/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/dataset/유성온천/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/dataset/유성온천/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/dataset/유성온천/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/dataset/유성온천/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/dataset/중계동 쌀국수/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/dataset/중계동 쌀국수/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/dataset/중계동 쌀국수/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/dataset/중계동 쌀국수/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/dataset/중계동 쌀국수/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/frontend/css/wirtingInputarea.css
+Code/code/ML/soo_samson/pipeline/frontend/icon/leading-iconnewrecord.svg
+Code/code/ML/soo_samson/pipeline/frontend/icon/plusicon.svg
+Code/code/ML/soo_samson/pipeline/frontend/icon/trailing-iconnewrecord.svg
+Code/code/ML/soo_samson/pipeline/frontend/index.html
+Code/code/ML/soo_samson/pipeline/frontend/js/wirtingswiper.js
+Code/code/ML/soo_samson/pipeline/gifs/a promotional video for tourism__식당__33.gif
+Code/code/ML/soo_samson/pipeline/gifs/a promotional video for tourism__오월드__97.gif
+Code/code/ML/soo_samson/pipeline/gifs/a promotional video for tourism__오월드__97.mp4
+Code/code/ML/soo_samson/pipeline/img_video/trans.py
+Code/code/ML/soo_samson/pipeline/img_video/video.py
+Code/code/ML/soo_samson/pipeline/ksyint2/dataset/대전 한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ksyint2/dataset/대전 한밭수목원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ksyint2/dataset/대전 한밭수목원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ksyint2/dataset/대전 한밭수목원/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ksyint2/dataset/대전 한밭수목원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ksyint2/gifs/pleasure__대전 한밭수목원__48.gif
+Code/code/ML/soo_samson/pipeline/ksyint2/gifs/pleasure__대전 한밭수목원__48.mp4
+Code/code/ML/soo_samson/pipeline/ksyint2/log_ksyint2.txt
+Code/code/ML/soo_samson/pipeline/log_.txt
+Code/code/ML/soo_samson/pipeline/log_pipeline.txt
+Code/code/ML/soo_samson/pipeline/main.py
+Code/code/ML/soo_samson/pipeline/main1.py
+Code/code/ML/soo_samson/pipeline/main2.py
+Code/code/ML/soo_samson/pipeline/main3.py
+Code/code/ML/soo_samson/pipeline/main4.py
+Code/code/ML/soo_samson/pipeline/Nanum.ttf
+Code/code/ML/soo_samson/pipeline/records.txt
+Code/code/ML/soo_samson/pipeline/records/user10__33/gifs/tourism promotional video__대전 모퉁이감자탕__4.gif
+Code/code/ML/soo_samson/pipeline/records/user10__33/gifs/tourism promotional video__대전 아쿠아리움__75.gif
+Code/code/ML/soo_samson/pipeline/records/user10__33/gifs/tourism promotional video__대전 유성온천__97.gif
+Code/code/ML/soo_samson/pipeline/records/user10__33/log_user10.txt
+Code/code/ML/soo_samson/pipeline/records/user10__52/gifs/tourism promotional video__대전 신안식당__3.gif
+Code/code/ML/soo_samson/pipeline/records/user10__52/gifs/tourism promotional video__대전 예술의전당__55.gif
+Code/code/ML/soo_samson/pipeline/records/user10__52/gifs/tourism promotional video__대전 흑돈가__47.gif
+Code/code/ML/soo_samson/pipeline/records/user10__52/log_user10.txt
+Code/code/ML/soo_samson/pipeline/records/user10__52/user10/log_user10.txt
+Code/code/ML/soo_samson/pipeline/records/user11__17/gifs/tourism promotional video__대전 감자탕__51.gif
+Code/code/ML/soo_samson/pipeline/records/user11__17/gifs/tourism promotional video__대전 엑스포과학공원__72.gif
+Code/code/ML/soo_samson/pipeline/records/user11__17/gifs/tourism promotional video__대전 해물탕__16.gif
+Code/code/ML/soo_samson/pipeline/records/user11__17/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records/user11__50/gifs/tourism promotional video__대전 대백화점__90.gif
+Code/code/ML/soo_samson/pipeline/records/user11__50/gifs/tourism promotional video__대전 예술의 전당__83.gif
+Code/code/ML/soo_samson/pipeline/records/user11__50/gifs/tourism promotional video__대전 한우마을__0.gif
+Code/code/ML/soo_samson/pipeline/records/user11__50/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records/user11__60/gifs/tourism promotional video__대전 자연사박물관__50.gif
+Code/code/ML/soo_samson/pipeline/records/user11__60/gifs/tourism promotional video__대전 중구 대전타워__56.gif
+Code/code/ML/soo_samson/pipeline/records/user11__60/gifs/tourism promotional video__대전 품격 있는 식당__35.gif
+Code/code/ML/soo_samson/pipeline/records/user11__60/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records/user11__8/gifs/tourism promotional video__대전 동구 먹거리골목__68.gif
+Code/code/ML/soo_samson/pipeline/records/user11__8/gifs/tourism promotional video__대전 상징탑__58.gif
+Code/code/ML/soo_samson/pipeline/records/user11__8/gifs/tourism promotional video__대전 한밭수목원__56.gif
+Code/code/ML/soo_samson/pipeline/records/user11__8/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records/user11__97/gifs/tourism promotional video__대전 문화예술의 전당__30.gif
+Code/code/ML/soo_samson/pipeline/records/user11__97/gifs/tourism promotional video__대전 칼국수__52.gif
+Code/code/ML/soo_samson/pipeline/records/user11__97/gifs/tourism promotional video__대전 한밭수목원__70.gif
+Code/code/ML/soo_samson/pipeline/records/user11__97/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records/user12__3/gifs/tourism promotional video__대전 서구 갈마동 대전과자점__38.gif
+Code/code/ML/soo_samson/pipeline/records/user12__3/gifs/tourism promotional video__대전 유성구 갑천 강변공원__75.gif
+Code/code/ML/soo_samson/pipeline/records/user12__3/gifs/tourism promotional video__대전 중구 대흥동 카페 드롭탑__36.gif
+Code/code/ML/soo_samson/pipeline/records/user12__3/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user12__4/gifs/tourism promotional video__대전 유림 쌈밥__46.gif
+Code/code/ML/soo_samson/pipeline/records/user12__4/gifs/tourism promotional video__대전 일루미네이션__40.gif
+Code/code/ML/soo_samson/pipeline/records/user12__4/gifs/tourism promotional video__대전 한밭수목원__75.gif
+Code/code/ML/soo_samson/pipeline/records/user12__4/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user12__52/gifs/tourism promotional video__대전 식당 뚝배기집__66.gif
+Code/code/ML/soo_samson/pipeline/records/user12__52/gifs/tourism promotional video__대전 청소년 문화센터__62.gif
+Code/code/ML/soo_samson/pipeline/records/user12__52/gifs/tourism promotional video__대전 카페 아리랑__7.gif
+Code/code/ML/soo_samson/pipeline/records/user12__52/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user12__54/gifs/tourism promotional video__대전 둔산동 맛집__40.gif
+Code/code/ML/soo_samson/pipeline/records/user12__54/gifs/tourism promotional video__대전 수제버거 집__35.gif
+Code/code/ML/soo_samson/pipeline/records/user12__54/gifs/tourism promotional video__대전 한밭수목원__26.gif
+Code/code/ML/soo_samson/pipeline/records/user12__54/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user12__57/gifs/tourism promotional video__대전 엑스포 시민광장__50.gif
+Code/code/ML/soo_samson/pipeline/records/user12__57/gifs/tourism promotional video__대전 오픈마켓__97.gif
+Code/code/ML/soo_samson/pipeline/records/user12__57/gifs/tourism promotional video__대전호수공원__43.gif
+Code/code/ML/soo_samson/pipeline/records/user12__57/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user12__97/gifs/tourism promotional video__대전 동춘당 공원__61.gif
+Code/code/ML/soo_samson/pipeline/records/user12__97/gifs/tourism promotional video__대전바이오메드 캠퍼스__14.gif
+Code/code/ML/soo_samson/pipeline/records/user12__97/gifs/tourism promotional video__대전카페거리__52.gif
+Code/code/ML/soo_samson/pipeline/records/user12__97/log_user12.txt
+Code/code/ML/soo_samson/pipeline/records/user1_2/gifs/tourism promotional video__Image_1__102.gif
+Code/code/ML/soo_samson/pipeline/records/user1_2/gifs/tourism promotional video__Image_1__117.gif
+Code/code/ML/soo_samson/pipeline/records/user1_2/gifs/tourism promotional video__Image_1__663.gif
+Code/code/ML/soo_samson/pipeline/records/user1_2/log_user1.txt
+Code/code/ML/soo_samson/pipeline/records/user2/gifs/tourism promotional video__Image_1__301.gif
+Code/code/ML/soo_samson/pipeline/records/user2/gifs/tourism promotional video__Image_1__489.gif
+Code/code/ML/soo_samson/pipeline/records/user2/gifs/tourism promotional video__Image_1__565.gif
+Code/code/ML/soo_samson/pipeline/records/user2/log_user2.txt
+Code/code/ML/soo_samson/pipeline/records/user2_17/gifs/tourism promotional video__Image_1__124.gif
+Code/code/ML/soo_samson/pipeline/records/user2_17/log_user2_17.txt
+Code/code/ML/soo_samson/pipeline/records/user2_44/gifs/tourism promotional video__Image_1__591.gif
+Code/code/ML/soo_samson/pipeline/records/user2_44/gifs/tourism promotional video__Image_1__636.gif
+Code/code/ML/soo_samson/pipeline/records/user2_44/gifs/tourism promotional video__Image_1__857.gif
+Code/code/ML/soo_samson/pipeline/records/user2_44/log_user2_44.txt
+Code/code/ML/soo_samson/pipeline/records/user3/gifs/tourism promotional video__Image_1__174.gif
+Code/code/ML/soo_samson/pipeline/records/user3/gifs/tourism promotional video__Image_1__359.gif
+Code/code/ML/soo_samson/pipeline/records/user3/gifs/tourism promotional video__Image_1__92.gif
+Code/code/ML/soo_samson/pipeline/records/user3/log_user3.txt
+Code/code/ML/soo_samson/pipeline/records/user4/gifs/tourism promotional video__Image_1__149.gif
+Code/code/ML/soo_samson/pipeline/records/user4/gifs/tourism promotional video__Image_1__288.gif
+Code/code/ML/soo_samson/pipeline/records/user4/gifs/tourism promotional video__Image_1__809.gif
+Code/code/ML/soo_samson/pipeline/records/user4/log_user4.txt
+Code/code/ML/soo_samson/pipeline/records/user4_91/log_user4_91.txt
+Code/code/ML/soo_samson/pipeline/records/user5/gifs/tourism promotional video__Image_1__726.gif
+Code/code/ML/soo_samson/pipeline/records/user5/gifs/tourism promotional video__Image_1__904.gif
+Code/code/ML/soo_samson/pipeline/records/user5/log_user5.txt
+Code/code/ML/soo_samson/pipeline/records/user5_24/log_user5_24.txt
+Code/code/ML/soo_samson/pipeline/records/user5_69/gifs/tourism promotional video__금강하구둑__4.gif
+Code/code/ML/soo_samson/pipeline/records/user5_69/gifs/tourism promotional video__대전시립미술관__93.gif
+Code/code/ML/soo_samson/pipeline/records/user5_69/gifs/tourism promotional video__무수막국수__83.gif
+Code/code/ML/soo_samson/pipeline/records/user5_69/log_user5_69.txt
+Code/code/ML/soo_samson/pipeline/records/user5_85/gifs/tourism promotional video__Image_2__743.gif
+Code/code/ML/soo_samson/pipeline/records/user5_85/gifs/tourism promotional video__Image_5__134.gif
+Code/code/ML/soo_samson/pipeline/records/user5_85/gifs/tourism promotional video__Image_5__283.gif
+Code/code/ML/soo_samson/pipeline/records/user5_85/log_user5_85.txt
+Code/code/ML/soo_samson/pipeline/records/user5_9/gifs/tourism promotional video__Image_1__333.gif
+Code/code/ML/soo_samson/pipeline/records/user6/gifs/tourism promotional video__대전 오월드__4.gif
+Code/code/ML/soo_samson/pipeline/records/user6/gifs/tourism promotional video__만년계곡__60.gif
+Code/code/ML/soo_samson/pipeline/records/user6/gifs/tourism promotional video__카페 도토리__71.gif
+Code/code/ML/soo_samson/pipeline/records/user6/log_user6.txt
+Code/code/ML/soo_samson/pipeline/records/user6_92/gifs/tourism promotional video__대전 보문산__70.gif
+Code/code/ML/soo_samson/pipeline/records/user6_92/gifs/tourism promotional video__대전 이솝 레스토랑__65.gif
+Code/code/ML/soo_samson/pipeline/records/user6_92/gifs/tourism promotional video__대전 한밭도서관__4.gif
+Code/code/ML/soo_samson/pipeline/records/user6_92/log_user6_92.txt
+Code/code/ML/soo_samson/pipeline/records/user8/gifs/tourism promotional video__대전 동구 한밭도서관__9.gif
+Code/code/ML/soo_samson/pipeline/records/user8/gifs/tourism promotional video__대전 복합문화공간 테츠__19.gif
+Code/code/ML/soo_samson/pipeline/records/user8/gifs/tourism promotional video__대전 카페 드 리버__69.gif
+Code/code/ML/soo_samson/pipeline/records/user8/log_user8.txt
+Code/code/ML/soo_samson/pipeline/records/user9__2/gifs/tourism promotional video__대전 관평동 카페거리__18.gif
+Code/code/ML/soo_samson/pipeline/records/user9__2/gifs/tourism promotional video__대전 스카이로드__64.gif
+Code/code/ML/soo_samson/pipeline/records/user9__2/gifs/tourism promotional video__대전 원도심__64.gif
+Code/code/ML/soo_samson/pipeline/records/user9__2/log_user9.txt
+Code/code/ML/soo_samson/pipeline/records/user9__30/gifs/tourism promotional video__대전 한밭수목원__31.gif
+Code/code/ML/soo_samson/pipeline/records/user9__30/gifs/tourism promotional video__대전광역시립미술관__47.gif
+Code/code/ML/soo_samson/pipeline/records/user9__30/gifs/tourism promotional video__대전식당__88.gif
+Code/code/ML/soo_samson/pipeline/records/user9__30/log_user9.txt
+Code/code/ML/soo_samson/pipeline/records/user9__71/gifs/tourism promotional video__대전 베이커리 카페 쉬즈__94.gif
+Code/code/ML/soo_samson/pipeline/records/user9__71/gifs/tourism promotional video__대전 카페 카페인__82.gif
+Code/code/ML/soo_samson/pipeline/records/user9__71/gifs/tourism promotional video__대전 한밭수목원__63.gif
+Code/code/ML/soo_samson/pipeline/records/user9__71/log_user9.txt
+Code/code/ML/soo_samson/pipeline/records/user9__75/gifs/tourism promotional video__대전 유명한 떡갈비__78.gif
+Code/code/ML/soo_samson/pipeline/records/user9__75/gifs/tourism promotional video__대전 한밭수목원__61.gif
+Code/code/ML/soo_samson/pipeline/records/user9__75/gifs/tourism promotional video__대전천__78.gif
+Code/code/ML/soo_samson/pipeline/records/user9__75/log_user9.txt
+Code/code/ML/soo_samson/pipeline/records2/ksyint/gifs/advertisement__대전 카페거리__92.gif
+Code/code/ML/soo_samson/pipeline/records2/ksyint/gifs/advertisement__대전 카페거리__92.mp4
+Code/code/ML/soo_samson/pipeline/records2/ksyint/log_ksyint.txt
+Code/code/ML/soo_samson/pipeline/records2/ksyint1111/gifs/it's a bummer__대전 한밭수목원__87.gif
+Code/code/ML/soo_samson/pipeline/records2/ksyint1111/gifs/it's a bummer__대전 한밭수목원__87.mp4
+Code/code/ML/soo_samson/pipeline/records2/ksyint1111/log_ksyint1111.txt
+Code/code/ML/soo_samson/pipeline/records2/sdfa/gifs/sdaf.__대전 오월드__18.gif
+Code/code/ML/soo_samson/pipeline/records2/sdfa/gifs/sdaf.__대전 오월드__18.mp4
+Code/code/ML/soo_samson/pipeline/records2/sdfa/log_sdfa.txt
+Code/code/ML/soo_samson/pipeline/records2/user10/gifs/a video for tourism promotion__대전 수족관__14.gif
+Code/code/ML/soo_samson/pipeline/records2/user10/log_user10.txt
+Code/code/ML/soo_samson/pipeline/records2/user11/gifs/a video for tourism promotion__대전 땅콩빵__21.gif
+Code/code/ML/soo_samson/pipeline/records2/user11/log_user11.txt
+Code/code/ML/soo_samson/pipeline/records2/user11_78/gifs/a video for tourism promotion__대전 중구 아드레날린__26.gif
+Code/code/ML/soo_samson/pipeline/records2/user11_78/log_user11_78.txt
+Code/code/ML/soo_samson/pipeline/records2/userr/log_userr.txt
+Code/code/ML/soo_samson/pipeline/records2/Users/gifs/tourism promotional video__대전 카페 공작소__83.gif
+Code/code/ML/soo_samson/pipeline/records2/Users/gifs/tourism promotional video__대전 한밭수목원__96.gif
+Code/code/ML/soo_samson/pipeline/records2/Users/log_user10.txt
+Code/code/ML/soo_samson/pipeline/records2/김수용/gifs/advertisement__대전 빵미사__82.gif
+Code/code/ML/soo_samson/pipeline/records2/김수용/gifs/advertisement__대전 빵미사__82.mp4
+Code/code/ML/soo_samson/pipeline/records2/김수용/log_김수용.txt
+Code/code/ML/soo_samson/pipeline/records2/암수/gifs/it's warm__대전 샤브향__89.gif
+Code/code/ML/soo_samson/pipeline/records2/암수/gifs/it's warm__대전 샤브향__89.mp4
+Code/code/ML/soo_samson/pipeline/records2/암수/log_암수.txt
+Code/code/ML/soo_samson/pipeline/samples/1.png
+Code/code/ML/soo_samson/pipeline/samples/2.png
+Code/code/ML/soo_samson/pipeline/samples/3.png
+Code/code/ML/soo_samson/pipeline/son/dataset/시립 미술관/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/시립 미술관/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/시립 미술관/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/시립 미술관/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/시립 미술관/Image_5.png
+Code/code/ML/soo_samson/pipeline/son/dataset/엑스포과학공원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/엑스포과학공원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/엑스포과학공원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/엑스포과학공원/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/엑스포과학공원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/카페 거리/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/카페 거리/Image_2.JPG
+Code/code/ML/soo_samson/pipeline/son/dataset/카페 거리/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/카페 거리/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/카페 거리/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한밭수목원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한밭수목원/Image_3.JPG
+Code/code/ML/soo_samson/pipeline/son/dataset/한밭수목원/Image_4.JPG
+Code/code/ML/soo_samson/pipeline/son/dataset/한밭수목원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한우촌/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한우촌/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한우촌/Image_3.JPG
+Code/code/ML/soo_samson/pipeline/son/dataset/한우촌/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/son/dataset/한우촌/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__시립 미술관__36.gif
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__엑스포과학공원__5.gif
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__카페 거리__75.gif
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__한밭수목원__94.gif
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__한밭수목원__95.gif
+Code/code/ML/soo_samson/pipeline/son/gifs/a promotional video for tourism__한우촌__35.gif
+Code/code/ML/soo_samson/pipeline/son/log_son.txt
+Code/code/ML/soo_samson/pipeline/sonss/dataset/스카이로드/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/sonss/dataset/스카이로드/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/sonss/dataset/스카이로드/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/sonss/dataset/스카이로드/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/sonss/dataset/스카이로드/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/sonss/gifs/a promotional video for tourism__스카이로드__31.gif
+Code/code/ML/soo_samson/pipeline/sonss/log_sonss.txt
+Code/code/ML/soo_samson/pipeline/user13/dataset/대전 카페 1호점/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/user13/dataset/대전 카페 1호점/Image_2.gif
+Code/code/ML/soo_samson/pipeline/user13/dataset/대전 카페 1호점/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13/dataset/대전 카페 1호점/Image_4.png
+Code/code/ML/soo_samson/pipeline/user13/dataset/대전 카페 1호점/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/user13/gifs/a video for tourism promotion__대전 카페 1호점__26.gif
+Code/code/ML/soo_samson/pipeline/user13/log_user13.txt
+Code/code/ML/soo_samson/pipeline/user13_18/dataset/대전 한남대학교 미술관/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/user13_18/dataset/대전 한남대학교 미술관/Image_2.png
+Code/code/ML/soo_samson/pipeline/user13_18/dataset/대전 한남대학교 미술관/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13_18/dataset/대전 한남대학교 미술관/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/user13_18/dataset/대전 한남대학교 미술관/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/user13_18/log_user13_18.txt
+Code/code/ML/soo_samson/pipeline/user13_27/dataset/대전 만년동 황토맛골/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/user13_27/dataset/대전 만년동 황토맛골/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/user13_27/dataset/대전 만년동 황토맛골/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13_27/dataset/대전 만년동 황토맛골/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/user13_27/dataset/대전 만년동 황토맛골/Image_5.png
+Code/code/ML/soo_samson/pipeline/user13_27/log_user13_27.txt
+Code/code/ML/soo_samson/pipeline/user13_37/dataset/전 현대백화점/Image_1.png
+Code/code/ML/soo_samson/pipeline/user13_37/dataset/전 현대백화점/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/user13_37/dataset/전 현대백화점/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13_37/dataset/전 현대백화점/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/user13_37/dataset/전 현대백화점/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/user13_37/log_user13_37.txt
+Code/code/ML/soo_samson/pipeline/user13_49/dataset/카페 블루베리/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/user13_49/dataset/카페 블루베리/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/user13_49/dataset/카페 블루베리/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13_49/dataset/카페 블루베리/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/user13_49/dataset/카페 블루베리/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/user13_49/gifs/a video for tourism promotion__카페 블루베리__0.gif
+Code/code/ML/soo_samson/pipeline/user13_49/log_user13_49.txt
+Code/code/ML/soo_samson/pipeline/user13_57/dataset/대전 문화전당/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/user13_57/dataset/대전 문화전당/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/user13_57/dataset/대전 문화전당/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/user13_57/dataset/대전 문화전당/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/user13_57/dataset/대전 문화전당/Image_5.JPG
+Code/code/ML/soo_samson/pipeline/user13_57/log_user13_57.txt
+Code/code/ML/soo_samson/pipeline/utils.py
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/타워/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/타워/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/타워/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/타워/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/타워/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/한옥마을/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/한옥마을/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/한옥마을/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/한옥마을/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/dataset/한옥마을/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/gifs/a promotional video for tourism__타워__50.gif
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/gifs/a promotional video for tourism__한옥마을__24.gif
+Code/code/ML/soo_samson/pipeline/ㄷㅂㅈㄷㅂ/log_ㄷㅂㅈㄷㅂ.txt
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/dataset/중구의 곰탕집/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/dataset/중구의 곰탕집/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/dataset/중구의 곰탕집/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/dataset/중구의 곰탕집/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/dataset/중구의 곰탕집/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/gifs/a promotional video for tourism__중구의 곰탕집__90.gif
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂ/log_ㅂㅈㄷㅂ.txt
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/dataset/타워/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/dataset/타워/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/dataset/타워/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/dataset/타워/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/dataset/타워/Image_5.jpeg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/gifs/a promotional video for tourism__타워__17.gif
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅂㅈ/log_ㅂㅈㄷㅂㅈ.txt
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/dataset/정통 족발/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/dataset/정통 족발/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/dataset/정통 족발/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/dataset/정통 족발/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/dataset/정통 족발/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/gifs/a promotional video for tourism__정통 족발__55.gif
+Code/code/ML/soo_samson/pipeline/ㅂㅈㄷㅈㅂㄷ/log_ㅂㅈㄷㅈㅂㄷ.txt
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/dataset/엑스포과학공원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/dataset/엑스포과학공원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/dataset/엑스포과학공원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/dataset/엑스포과학공원/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/dataset/엑스포과학공원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂ/log_ㅈㅂ.txt
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/엑스포 과학공원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/엑스포 과학공원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/엑스포 과학공원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/엑스포 과학공원/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/엑스포 과학공원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/한밭수목원/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/한밭수목원/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/한밭수목원/Image_3.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/한밭수목원/Image_4.JPG
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/dataset/한밭수목원/Image_5.jpg
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/gifs/a promotional video for tourism__엑스포 과학공원__2.gif
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/gifs/a promotional video for tourism__한밭수목원__50.gif
+Code/code/ML/soo_samson/pipeline/ㅈㅂㄷㅂ/log_ㅈㅂㄷㅂ.txt
+Code/code/ML/soo_samson/pipeline/대전/dataset/둔산동 맛집/Image_1.jpg
+Code/code/ML/soo_samson/pipeline/대전/dataset/둔산동 맛집/Image_2.jpg
+Code/code/ML/soo_samson/pipeline/대전/dataset/둔산동 맛집/Image_3.JPG
+Code/code/ML/soo_samson/pipeline/대전/dataset/둔산동 맛집/Image_4.jpg
+Code/code/ML/soo_samson/pipeline/대전/dataset/둔산동 맛집/Image_5.jpeg
+Code/code/ML/soo_samson/pipeline/대전/gifs/a promotional video for tourism__둔산동 맛집__43.gif
+Code/code/ML/soo_samson/pipeline/대전/log_대전.txt
+Code/code/ML/soo_samson/pipeline2/17team.tar.gz
+Code/code/ML/soo_samson/pipeline2/clova_ocr.py
+Code/code/ML/soo_samson/pipeline2/crawl/crawling.py
+Code/code/ML/soo_samson/pipeline2/demo.py
+Code/code/ML/soo_samson/pipeline2/img_video/trans.py
+Code/code/ML/soo_samson/pipeline2/img_video/video.py
+Code/code/ML/soo_samson/pipeline2/Nanum.ttf
+Code/code/ML/soo_samson/pipeline2/records/result_example/gifs/tourism promotional video__대전 한밭수목원__26.gif
+Code/code/ML/soo_samson/pipeline2/records/result_example/log.txt
+Code/code/ML/soo_samson/pipeline2/samples/1.png
+Code/code/ML/soo_samson/pipeline2/samples/2.png
+Code/code/ML/soo_samson/pipeline2/samples/3.png
+Code/code/ML/soo_samson/recommend.json
+Code/code/ML/soo_samson/recommend10.json
+Code/code/ML/soo_samson/recommend11.json
+Code/code/ML/soo_samson/recommend12.json
+Code/code/ML/soo_samson/recommend2.json
+Code/code/ML/soo_samson/recommend3.json
+Code/code/ML/soo_samson/recommend4.json
+Code/code/ML/soo_samson/recommend7.json
+Code/code/ML/soo_samson/recommend8.json
+Code/code/ML/soo_samson/recommend9.json
+Code/code/ML/soo_samson/recommend_게시글예시7.json
+Code/code/ML/soo_samson/search.py
+Code/code/ML/soo_samson/search/chromedriver
+Code/code/ML/soo_samson/search/chromedriver_linux64.zip
+Code/code/ML/soo_samson/search/main.py
+Code/code/ML/soo_samson/sql/database.py
+Code/code/ML/soo_samson/Writingrecord.html
+Code/code/ML/soo_samson/게시글예시4.json
+Code/code/ML/soo_samson/게시글예시6.json
+Code/code/ML/soo_samson/게시글예시7.json
+Code/code/ML/soo_samson/게시물.txt
+Code/code/ML/sql_app/__init__.py
+Code/code/ML/sql_app/crud.py
+Code/code/ML/sql_app/database.py
+Code/code/ML/sql_app/main.py
+Code/code/ML/sql_app/main4.py
+*.txt
+Code/code/ML/SON/pipeline/main.py
+Code/code/ML/SON/pipeline/main1.py
+Code/code/ML/SON/pipeline/main2.py
+Code/code/ML/SON/pipeline/main3.py
+Code/code/ML/SON/pipeline/Nanum.ttf
+Code/code/ML/SON/pipeline/utils.py
+Code/code/ML/soo_samson/app.py
+Code/code/ML/soo_samson/chromedriver
+Code/code/ML/soo_samson/css/wirtingInputarea.css
+Code/code/ML/soo_samson/data/data.ipynb
+Code/code/ML/soo_samson/down.sh
+Code/code/ML/soo_samson/icon/leading-iconnewrecord.svg
+Code/code/ML/soo_samson/icon/plusicon.svg
+Code/code/ML/soo_samson/icon/trailing-iconnewrecord.svg
+Code/code/ML/soo_samson/icon/Writingrecord.html
+Code/code/ML/soo_samson/js/wirtingswiper.js
+Code/code/ML/soo_samson/main.py
+Code/code/ML/soo_samson/ml/backery.jpeg
+Code/code/ML/soo_samson/ml/bridge.jpeg
+Code/code/ML/soo_samson/ml/cakes on the table__naver_ex1.gif
+Code/code/ML/soo_samson/ml/cats are eating food__naver_ex3__3.gif
+Code/code/ML/soo_samson/ml/checkpoints/down.sh
+Code/code/ML/soo_samson/ml/checkpoints/nohup.out
+Code/code/ML/soo_samson/ml/checkpoints/pic2word/pic2word_model.pt
+Code/code/ML/soo_samson/ml/checkpoints/pic2word/ViT-L-14.pt
+Code/code/ML/soo_samson/ml/daegeon0.gif
+Code/code/ML/soo_samson/ml/daegeon1.gif
+Code/code/ML/soo_samson/ml/daegeon2.gif
+Code/code/ML/soo_samson/ml/Delicious looking cake__naver_ex1__1.gif
+Code/code/ML/soo_samson/ml/expo.jpeg
+Code/code/ML/soo_samson/ml/i2v.gif
+Code/code/ML/soo_samson/ml/many people standing in a cafeteria__naver_ex23.gif
+Code/code/ML/soo_samson/ml/model.py
+Code/code/ML/soo_samson/ml/model2.py
+Code/code/ML/soo_samson/ml/model3.py
+Code/code/ML/soo_samson/ml/model4.py
+Code/code/ML/soo_samson/ml/model5.py
+Code/code/ML/soo_samson/ml/model6.py
+Code/code/ML/soo_samson/ml/model7.py
+Code/code/ML/soo_samson/ml/model8.py
+Code/code/ML/soo_samson/ml/naver_ex1.jpg
+Code/code/ML/soo_samson/ml/naver_ex2.jpg
+Code/code/ML/soo_samson/ml/naver_ex3.png
+Code/code/ML/soo_samson/ml/naver_ex4.png
+Code/code/ML/soo_samson/ml/naver_ex5.jpg
+Code/code/ML/soo_samson/ml/nohup.out
+Code/code/ML/soo_samson/ml/output.png
+Code/code/ML/soo_samson/ml/People are having coffee at a restaurant__naver_ex2__1.gif
+Code/code/ML/soo_samson/ml/People are sitting on chairs__naver_ex2__1.gif
+Code/code/ML/soo_samson/ml/place with some people standing__naver_ex2.gif
+Code/code/ML/soo_samson/ml/plates full of food__naver_ex3__3.gif
+Code/code/ML/soo_samson/ml/rag_down.py
+Code/code/ML/soo_samson/ml/rag_llama.ipynb
+Code/code/ML/soo_samson/ml/seoul.jpeg
+Code/code/ML/soo_samson/ml/Shop in a cold atmosphere__naver_ex5__1.gif
+Code/code/ML/soo_samson/ml/Shop with a warm atmosphere__naver_ex5__1.gif
+Code/code/ML/sql_app/models.py
+Code/code/ML/sql_app/schemas.py
+Code/code/ML/sql_app/templates/create_record.html
+Code/code/ML/sql_app/templates/records.html
+Code/code/Readme.md
+Code/code/이미지로부터 영상생성.py
