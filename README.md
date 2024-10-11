@@ -32,3 +32,19 @@ SW-Centered University Generative AI Experience Contest
 --------------------------
 
 ## 결과물(1)
+
+
+![funny video of a grandma with a perm__84](https://github.com/user-attachments/assets/7cad3067-b9ab-4b18-a282-0e7511d7ee1c)
+
+
+--------------------------
+
+## 결과물(2)
+
+![a little girl with long hair in a yellow hat__79](https://github.com/user-attachments/assets/77049415-f61d-4717-8eec-93560e4df57f)
+
+
+--------------------------
+
+## 결과물(3)
+![dong-yeong as an old man with glasses, white hair, and a cane__31](https://github.com/user-attachments/assets/fd813c1a-3bf6-4777-a6ae-a4174fb754b0)
